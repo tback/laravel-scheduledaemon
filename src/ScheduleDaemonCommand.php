@@ -3,6 +3,7 @@
 namespace ScheduleDaemon;
 
 use Illuminate\Console\Command;
+
 class ScheduleDaemonCommand extends Command
 {
     /**
